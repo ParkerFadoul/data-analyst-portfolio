@@ -36,6 +36,24 @@ This project demonstrates skills in:
 - Interactive dashboard design
 - Clear, concise insight communication
 
+### 📉 Data Quality & Limitations
+
+This project analyzes approximately **3,000 fish** caught in *Animal Crossing: New Horizons* during July (Northern Hemisphere).
+
+- **~1,600 fish** were caught during the **day** (9am–4pm)  
+- **~1,400 fish** were caught during the **night** (4pm–9am)  
+- Each fish was manually logged with shadow size, time of day, and species
+
+While this dataset reflects one player’s gameplay, the **large sample size** and **consistent data collection** support strong conclusions.
+
+#### Limitations:
+- Results reflect one island and one player’s skill
+- Only successful catches were recorded
+- Trash and bait use were excluded
+- A known gameplay quirk (night fish continuing after 9am if the game isn’t reloaded) was used during data collection
+
+Despite these caveats, the data is reliable for uncovering shadow size trends and Bells-per-cast profitability.
+
 ---
 
 ## 📌 More Projects Coming Soon:
