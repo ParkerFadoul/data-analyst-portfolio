@@ -13,30 +13,31 @@ Each project is a milestone in my learning journey — with more being added reg
 **Live Link:** [View the dashboard (Google Sheets)](https://docs.google.com/spreadsheets/d/1A56wv6nq97LsTDuI9FVRqqgEcHkCvpHmizy9gRkLVCg/edit?gid=1131253864#gid=1131253864)
 
 **Summary:**  
-This is a self-driven data collection and analysis project using fishing data from *Animal Crossing: New Horizons*. Over the course of July, I manually tracked every fish I caught, categorized by:
+This self-driven data collection and analysis project uses fishing data from *Animal Crossing: New Horizons*. Over the course of July, I manually tracked every fish I caught, categorized by:
 - Time of day (9am–4pm vs. 4pm–9am)
 - Shadow size
 - Fish species
-I marked pier fish as ocean fish and worked them into rotation on islands. I ignored trash because my main island was free of trash. I consider myself decent at fishing, but did not count anything I didn't catch, assuming that my missing rate was similar regarding shadow size spread. 
+
+Pier fish were included as ocean fish. Trash was excluded (my island was clean), and I assumed a consistent success rate with catching fish across shadow sizes.
 
 **Key features:**
 - 📈 3 interactive dashboards built in Google Sheets
-- 🎯 Probability analysis based on shadow size and frequency
-- 💰 Calculated average Bells (currency) earned per cast
+- 🎯 Probability analysis by shadow size and species frequency
+- 💰 Average Bells (in-game currency) earned per cast, by time and location
 
-**Quick Insights**
-- In the Ocean at night, the average bells per cast is highest, especially for size 4 shadow and size 6 shadow, with and without fin.
-- In the River, if you can tell the difference between shadow size 4 (bad) and shadow size 5 and 6(good), you make a lot of bells.
-- The pond isn't really worth it either time of day unless you need something specific.
+**Quick Insights:**
+- 🌊 **Ocean (Night):** Highest Bells per cast — especially for shadow sizes 4 and 6 (with or without fin)
+- 🏞 **River:** Spotting size 5 and 6 shadows (vs. misleading size 4) boosts Bell earnings significantly
+- 🟣 **Pond:** Low return overall — not ideal unless targeting specific fish
 
-This project showcases my abilities in:
-- Data collection & cleaning
-- Statistical reasoning
+This project demonstrates skills in:
+- Manual data collection & cleaning
+- Probability and value-based analysis
 - Interactive dashboard design
-- Communicating insights with clarity and creativity
+- Clear, concise insight communication
 
 ---
 
-## 📌 More projects coming soon:
+## 📌 More Projects Coming Soon:
 - SQL queries for public datasets
-- Exploratory analysis in R and Tableau
+- Exploratory analysis using R and Tableau
