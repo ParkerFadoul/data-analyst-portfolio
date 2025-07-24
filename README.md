@@ -17,11 +17,17 @@ This is a self-driven data collection and analysis project using fishing data fr
 - Time of day (9am–4pm vs. 4pm–9am)
 - Shadow size
 - Fish species
+I marked pier fish as ocean fish and worked them into rotation on islands. I ignored trash because my main island was free of trash. I consider myself decent at fishing, but did not count anything I didn't catch, assuming that my missing rate was similar regarding shadow size spread. 
 
 **Key features:**
 - 📈 3 interactive dashboards built in Google Sheets
 - 🎯 Probability analysis based on shadow size and frequency
 - 💰 Calculated average Bells (currency) earned per cast
+
+**Quick Insights**
+- In the Ocean at night, the average bells per cast is highest, especially for size 4 shadow and size 6 shadow, with and without fin.
+- In the River, if you can tell the difference between shadow size 4 (bad) and shadow size 5 and 6(good), you make a lot of bells.
+- The pond isn't really worth it either time of day unless you need something specific.
 
 This project showcases my abilities in:
 - Data collection & cleaning
