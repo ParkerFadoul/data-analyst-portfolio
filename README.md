@@ -7,7 +7,7 @@ Each project is a milestone in my learning journey — with more being added reg
 ---
 
 ## 🐟 Animal Crossing Fishing Analysis  
-**[View the full project →](https://github.com/your-username/animal-crossing-fishing-analysis)**
+**[View the full project →](https://github.com/ParkerFadoul/Animal_Crossing_Fishing_Analysis)**
 
 A self-collected dataset of 3,000+ fish from *Animal Crossing: New Horizons*, analyzed in Google Sheets.  
 Includes interactive dashboards, catch probability modeling, and in-game value optimization.
