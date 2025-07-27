@@ -12,8 +12,8 @@ Each project is a milestone in my learning journey — with more being added reg
 A self-collected dataset of 3,000+ fish from *Animal Crossing: New Horizons*, analyzed in Google Sheets.  
 Includes interactive dashboards, catch probability modeling, and in-game value optimization.
 
-📄 [View the slide deck (PDF)](https://github.com/your-username/animal-crossing-fishing-analysis/blob/main/Animal-Crossing-Capstone-Slides.pdf)  
-📊 [View the Google Sheets dashboard](your-google-sheets-link-here)
+📄 [View the slide deck (PDF)](https://github.com/ParkerFadoul/Animal_Crossing_Fishing_Analysis/blob/main/Animal%20Crossing%20Capstone%20-%20Parker%20Fadoul.pdf)  
+📊 [View the Google Sheets dashboard](https://docs.google.com/spreadsheets/d/1A56wv6nq97LsTDuI9FVRqqgEcHkCvpHmizy9gRkLVCg/edit?gid=1131253864#gid=1131253864)
 
 ---
 
