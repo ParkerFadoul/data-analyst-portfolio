@@ -17,6 +17,14 @@ Includes interactive dashboards, catch probability modeling, and in-game value o
 
 ---
 
+## 🚲 Citi Bike Trends in NYC (SQL Project) 
+ 
+Used Google BigQuery to analyze New York City’s Citi Bike data. Explored rider demographics, trip patterns, and behavioral trends using SQL queries. Key insights include usage differences by age, user type, time of day, and trip duration patterns.  
+
+---
+
+🔗 [View Project](https://github.com/your-github-here/citibike-sql-project)
+
 ## 🧪 Upcoming Projects
 
 - 🗃 SQL analysis of public datasets (via BigQuery)
